@@ -1,0 +1,47 @@
+body {
+    background: rgb(21,21,21) url(img/bg.jpg) fixed;
+    background-size: contain;
+    color: #fff;
+    font-family: Lora, serif;
+    text-align: center;
+}
+a {
+    color: white;
+    text-decoration: underline;
+}
+.tagline {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: rgb(104,104,104);
+    font-size: 0.9em;
+}
+.tagline li {
+    display: inline;
+    margin: 0 0.8em;
+}
+.con {
+    font-size: 1.4em;
+}
+.con span {
+    color: #a2a2a2;
+}
+.logo {
+    margin: 2em 0;
+}
+.separator {
+    margin: 3em auto;
+    width: 14%;
+    height: 3px;
+    background-color: rgb(81,81,81);
+    border: none 0;
+}
+.work {
+    margin: 2em 0;
+}
+
+@media (min-width: 768px) {
+    .logo {
+        margin: 3em 0;
+    }
+}

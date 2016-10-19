@@ -1,2 +1,2 @@
 # architecturalpractice
-Static interim for thearchitecturalpractice.com
+Static interim site for thearchitecturalpractice.com

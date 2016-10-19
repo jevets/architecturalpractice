@@ -1,0 +1,8 @@
+{
+    "name": "archpractice",
+    "private": true,
+    "description": "Static interim for Con Dameron",
+    "scripts": {
+        "perms": "chmod -R 755 html/img"
+    }
+}
